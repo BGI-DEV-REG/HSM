@@ -1,15 +1,15 @@
-# <center>HSA: Human Skin Atlas</center>
+# <center>Human Pan-Body Skin Spatial Map</center>
 
-![Graphical abstract](HumanSkinAtlas-Graphical_abstract.png)
+![Graphical abstract](SkinAtlas-Graphical_abstract_261111.png)
 
 This repository contains scripts used in the analysis of the manuscript: "**Human Pan-Body Skin Spatial Map**".
 
 ## Accessions
 CNSA-Project: [CNP0010045](https://db.cngb.org/cnsa/)
 
-Interactive website: [HSA](http://db.genomics.cn/stomics/HSA)
+Interactive website: [HSM](http://db.genomics.cn/stomics/HSM)
 
-Github: [HSA](https://github.com/BGI-DEV-REG/HSA)
+Github: [HSM](https://github.com/BGI-DEV-REG/HSM)
 
 ## Citation Information
 If you use content from this database in your research or project, please cite the following article:
@@ -23,4 +23,4 @@ The tools used in this study can be explored at https://github.com/BGI-DEV-REG/A
 
 
 ## Contact
-weixiaoyu@genomics.cn; guanxiong_zhang@csu.edu.cn
+guanxiong_zhang@csu.edu.cn (Guanxiong Zhang), liulongqi@genomics.cn (Longqi Liu), shizhaoji2022@163.com (Shizhao Ji), zhjuf@vip.sina.com (Jufang Zhang), xuxun@genomics.cn (Xun Xu), liji_xy@csu.edu.cn (Ji Li), chenxiangck@csu.edu.cn (Xiang Chen)
